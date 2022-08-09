@@ -1,4 +1,17 @@
-a = 10
-b = 20
-c = 30
-d = 40
+
+this is conflict txt file.
+we have created this file for the testing purpose of the conflict and how to resolve it..
+ok lets give it a try...
+move on..
+hurry hurrry.. we have very less time remaining for practice..
+and we need to complete the syllabus..
+oh my pumpkin pumpkin ..
+hello hunny bunny..
+feeling something something.
+hello hunny bunny..
+
+a = 100
+b = 200
+c = 300
+d = 400
+
