@@ -1,0 +1,4 @@
+this is the new feature added to our ecommerce site..
+now we want to merge these changes to the main branch ..
+how do we do it??
+we will do it with the help of gui...(graphical user interface) of the git hub..
