@@ -1,0 +1,2 @@
+this file is created for the puspose of understanding the concept of the ignore file..
+shall i give it a try??
