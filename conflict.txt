@@ -1,3 +1,4 @@
+
 this is conflict txt file.
 we have created this file for the testing purpose of the conflict and how to resolve it..
 ok lets give it a try...
@@ -13,3 +14,4 @@ a = 100
 b = 200
 c = 300
 d = 400
+
